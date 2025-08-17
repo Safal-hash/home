@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap');
+
+
+@import "tailwindcss";
+
+@theme{
+    --font-inter: 'Mozilla Headline', sans-serif; /* Inter font */
+    --color-primary: #E8DACD; /* Light Gray */
+    --color-secondary: #2C2F2C; /* Off White */
+}
