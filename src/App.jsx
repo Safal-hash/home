@@ -7,7 +7,7 @@ import Navbar from "./components/navbar.jsx";
 import Hero from "./components/hero.jsx";
 function App() {
   return (
-      <div className="min-h-screen bg-primary font-inter">
+      <div className="min-h-screen bg-primary">
         <Navbar />
         <Hero />
       </div>

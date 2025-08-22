@@ -8,4 +8,5 @@
     --font-inter: 'Mozilla Headline', sans-serif; /* Inter font */
     --color-primary: #F5F5F5; /* Light Gray */
     --color-secondary: #2C2F2C; /* Off White */
+    --color-accent: hsl(1, 51%, 30%); /* Dark Red */
 }

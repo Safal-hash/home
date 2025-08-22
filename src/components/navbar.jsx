@@ -3,12 +3,12 @@ import React from 'react'
 const Navbar = () => {
   return (
    <nav >
-    <ul className='flex flex-row items-center p-3 justify-evenly'>
+    <ul className='flex flex-row items-center p-3 justify-evenly '>
 
       <li className='flex flex-row items-center'>
        <img src="./starburst.png" alt="" className="w-7 h-7" />
      <p className='font-semibold'>
-         &nbsp;/&nbsp;Safal
+         &nbsp;/&nbsp;Nuस्खा
      </p>
       </li>
     
