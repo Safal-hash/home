@@ -10,3 +10,8 @@
     --color-secondary: #2C2F2C; /* Off White */
     --color-accent: hsl(1, 51%, 30%); /* Dark Red */
 }
+
+
+:root{
+    background-color: var(--color-primary);
+}
